@@ -11,7 +11,6 @@ public class Main {
 	}
 
 	private void start() {
-		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		int idade = scanner.nextInt();
 
